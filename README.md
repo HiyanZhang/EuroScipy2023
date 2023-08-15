@@ -1,5 +1,5 @@
 # EuroScipy2023
-I attended the 15th European Conference on Python in Science (EuroScipy2023). Here in this repository I summerized the teaching materials (github links) from the workshop I have attended.
+I attended the 15th European Conference on Python in Science (EuroScipy2023). Here in this repository I summerized the teaching materials (github links) from the workshops I have attended.
 
 ## 1. Network Analysis Made Simple
 Network analysis tutorial: https://github.com/ericmjl/Network-Analysis-Made-Simple
@@ -8,22 +8,25 @@ Project Homepage / Git: github.com/networkx/networkx
 
 Public link to supporting material: https://ericmjl.github.io/Network-Analysis-Made-Simple/
 Workshop outline:
-Part 1: Introduction (30 min)
 
-Networks of all kinds: biological, transportation, web.
-Representation of networks, NetworkX data structures
-Introduction to NetworkX API for modelling and graph operations.
-Part 2: Hubs and Paths (30 min)
+### Part 1: Introduction (30 min)
+
+1. Networks of all kinds: biological, transportation, web.
+2. Representation of networks, NetworkX data structures
+3. Introduction to NetworkX API for modelling and graph operations.
+
+### Part 2: Hubs and Paths (30 min)
 
 Finding important nodes; applications
 Pathfinding algorithms and their applications
 Hands-on: implementing path-finding algorithms
 Visualize degree and betweenness centrality distributions.
-Part 3: Speed up your code with NetworkX dispatching (30 min)
 
-Quick introduction to GraphBLAS
-Moving between GraphBLAS and NetworkX.
-Speed up your NetworkX code by changing one line of code!
+### Part 3: Speed up your code with NetworkX dispatching (30 min)
+
+1. Quick introduction to GraphBLAS
+2. Moving between GraphBLAS and NetworkX.
+3. Speed up your NetworkX code by changing one line of code!
 
 
 ## 2. Introduction to Geospatial Machine Learning with SRAI
