@@ -66,6 +66,7 @@ Workshop Outline:
 4. Predictive modeling pipeline
 5. Evaluation of models
 6. Hyperparameters tuning
+
 Public link to supporting material: https://inria.github.io/scikit-learn-mooc/
 
 Tutorial: https://github.com/StefanieSenger/Talks/blob/main/2023_EuroSciPy/2023_EuroSciPy_Intro_to_scikit-learn_fillout-notebook.ipynb
