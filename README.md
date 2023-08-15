@@ -3,8 +3,7 @@ I attended the 15th European Conference on Python in Science (EuroScipy2023). He
 ## 1. Network Analysis Made Simple
 Network analysis tutorial: https://github.com/ericmjl/Network-Analysis-Made-Simple
 
-Project Homepage / Git –
-github.com/networkx/networkx
+Project Homepage / Git: github.com/networkx/networkx
 
 Public link to supporting material –
 https://ericmjl.github.io/Network-Analysis-Made-Simple/
