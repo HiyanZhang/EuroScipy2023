@@ -17,10 +17,10 @@ Workshop outline:
 
 ### Part 2: Hubs and Paths (30 min)
 
-Finding important nodes; applications
-Pathfinding algorithms and their applications
-Hands-on: implementing path-finding algorithms
-Visualize degree and betweenness centrality distributions.
+1. Finding important nodes; applications
+2. Pathfinding algorithms and their applications
+3. Hands-on: implementing path-finding algorithms
+4. Visualize degree and betweenness centrality distributions.
 
 ### Part 3: Speed up your code with NetworkX dispatching (30 min)
 
@@ -33,6 +33,7 @@ Visualize degree and betweenness centrality distributions.
 geopandas-tutorial: https://github.com/jorisvandenbossche/geopandas-tutorial
 
 srai-tutorial: https://github.com/kraina-ai/srai-tutorial 
+
 By the end of the tutorial, attendees will be able to:
 1. Install and set up the SRAI library.
 2. Use SRAI to download and process geospatial data.
@@ -47,23 +48,24 @@ By the end of the tutorial, attendees will be able to:
 
 ## 4. Predictive survival analysis with scikit-learn, scikit-survival and lifelines
 Tutorial notebooks: https://vincent-maladiere.github.io/survival-analysis-demo
+
 Here is a tentative agenda:
 
-What is time-censored data and why it is a problem to train time-to-event regression models.
-Single event survival analysis with Kaplan-Meier using scikit-survival.
-Evaluation of the calibration of survival analysis estimators using the integrated brier score (IBS) metric.
-Predictive survival analysis modeling with Cox Proportional Hazards, Survival Forests using scikit-survival, GradientBoostedIBS implemented from scratch with scikit-learn.
-How to use a trained GradientBoostedIBS model to estimate the median survival time and the probability of survival at a fixed time horizon.
-Inspecting the learned statistical association between input features and survival probabilities using partial dependence plot.
+1. What is time-censored data and why it is a problem to train time-to-event regression models.
+2. Single event survival analysis with Kaplan-Meier using scikit-survival.
+3. Evaluation of the calibration of survival analysis estimators using the integrated brier score (IBS) metric.
+4. Predictive survival analysis modeling with Cox Proportional Hazards, Survival Forests using scikit-survival, GradientBoostedIBS implemented from scratch with scikit-learn.
+5. How to use a trained GradientBoostedIBS model to estimate the median survival time and the probability of survival at a fixed time horizon.
+6. Inspecting the learned statistical association between input features and survival probabilities using partial dependence plot.
 
 ## 5. Introduction to scikit-learn
 Workshop Outline:
-Machine Learning 101 (10 min.)
-What is scikit-learn? (5 min.)
-Practical Part (+60 min.)
-Predictive modeling pipeline
-Evaluation of models
-Hyperparameters tuning
+1. Machine Learning 101 (10 min.)
+2. What is scikit-learn? (5 min.)
+3. Practical Part (+60 min.)
+4. Predictive modeling pipeline
+5. Evaluation of models
+6. Hyperparameters tuning
 Public link to supporting material: https://inria.github.io/scikit-learn-mooc/
 Tutorial: https://github.com/StefanieSenger/Talks/blob/main/2023_EuroSciPy/2023_EuroSciPy_Intro_to_scikit-learn_fillout-notebook.ipynb
 
@@ -71,13 +73,10 @@ Tutorial: https://github.com/StefanieSenger/Talks/blob/main/2023_EuroSciPy/2023_
 Tutorial: https://github.com/glemaitre/euroscipy-2023-scikit-image
 
 Workshop Outline:
-image histogram and contrast
-
-image filtering: transformations of an image resulting in a new image of similar size (for example, thresholding, edge enhancement, etc.)
-
-image segmentation: partitioning an image into several regions (objects)
-
-image descriptors
+1. image histogram and contrast
+2. image filtering: transformations of an image resulting in a new image of similar size (for example, thresholding, edge enhancement, etc.)
+3. image segmentation: partitioning an image into several regions (objects)
+4. image descriptors
 
 
 
