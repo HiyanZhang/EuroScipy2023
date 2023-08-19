@@ -110,6 +110,8 @@ The mljar-supervised is an Automated Machine Learning Python package that works 
 ## 12. skrub - is a Python library that facilitates prepping your tables for machine learning.
 Github link: https://github.com/skrub-data/skrub
 
+Poster link: https://drive.google.com/file/d/1TtmJ3VjASy6rGlKe0txKacM-DdvJdIvB/view?pli=1
+
 skrub provides tools (TableVectorizer, fuzzy_join...) and encoders (GapEncoder, MinHashEncoder...) for morphological similarities, for which we usually identify three common cases: similarities, typos and variations
 
 
